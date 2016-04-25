@@ -1,2 +1,4 @@
 # hello-world
-my first repostory
+my first repostor
+
+My name is Patrick
